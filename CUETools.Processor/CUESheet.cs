@@ -2228,9 +2228,7 @@ namespace CUETools.Processor
 
         public static void WriteText(string path, string text)
         {
-            bool utf8Required = CUESheet.Encoding.GetString(CUESheet.Encoding.GetBytes(text)) != text;
-            var encoding = utf8Required ? Encoding.UTF8 : CUESheet.Encoding;
-            using (StreamWriter sw1 = new StreamWriter(path, false, encoding))
+            using (StreamWriter sw1 = new StreamWriter(path, false, Encoding.UTF8))
                 sw1.Write(text);
         }
 

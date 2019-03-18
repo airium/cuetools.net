@@ -768,8 +768,7 @@ namespace JDP
                         }
                         if (File.Exists(fullCueName))
                             throw new Exception("file already exists");
-                        bool utf8Required = CUESheet.Encoding.GetString(CUESheet.Encoding.GetBytes(cueSheetContents)) != cueSheetContents;
-                        StreamWriter sw1 = new StreamWriter(fullCueName, false, utf8Required ? Encoding.UTF8 : CUESheet.Encoding);
+                        StreamWriter sw1 = new StreamWriter(fullCueName, false, Encoding.UTF8);
                         sw1.Write(cueSheetContents);
                         sw1.Close();
                         BatchLog("created ok.", fullCueName);
