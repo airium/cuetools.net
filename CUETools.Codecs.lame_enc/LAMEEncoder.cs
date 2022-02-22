@@ -107,7 +107,7 @@ namespace CUETools.Codecs.LAME
             DeInit(true);
             if (needTag)
             {
-                bool utf8Required = Encoding.Default.GetString(Encoding.Default.GetBytes(_path)) != _path;
+                bool utf8Required = true;
                 var tempDir = System.IO.Path.Combine(System.IO.Path.GetPathRoot(_path), "Temp");
                 var tempName = utf8Required ? System.IO.Path.Combine(tempDir, Guid.NewGuid().ToString()) : _path;
                 try
