@@ -1,23 +1,23 @@
 // ****************************************************************************
-// 
+//
 // CUE Tools
 // Copyright (C) 2006-2007  Moitah (moitah@yahoo.com)
 // Copyright (C) 2008-2022  Gregory S. Chudov (gchudov@gmail.com)
-// 
+//
 // This program is free software; you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
 // the Free Software Foundation; either version 2 of the License, or
 // (at your option) any later version.
-// 
+//
 // This program is distributed in the hope that it will be useful,
 // but WITHOUT ANY WARRANTY; without even the implied warranty of
 // MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 // GNU General Public License for more details.
-// 
+//
 // You should have received a copy of the GNU General Public License
 // along with this program; if not, write to the Free Software
 // Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
-// 
+//
 // ****************************************************************************
 // ****************************************************************************
 // Access to AccurateRip is regulated, see
@@ -783,8 +783,7 @@ namespace JDP
                         }
                         if (File.Exists(fullCueName))
                             throw new Exception("file already exists");
-                        bool utf8Required = CUESheet.Encoding.GetString(CUESheet.Encoding.GetBytes(cueSheetContents)) != cueSheetContents;
-                        StreamWriter sw1 = new StreamWriter(fullCueName, false, utf8Required ? Encoding.UTF8 : CUESheet.Encoding);
+                        StreamWriter sw1 = new StreamWriter(fullCueName, false, Encoding.UTF8);
                         sw1.Write(cueSheetContents);
                         sw1.Close();
                         BatchLog("created ok.", fullCueName);
@@ -1269,7 +1268,7 @@ namespace JDP
             grpOutputPathGeneration.Enabled = !running;
             grpAudioOutput.Enabled = !running && converting;
             grpAction.Enabled = !running;
-            //checkBoxUseFreeDb.Enabled = 
+            //checkBoxUseFreeDb.Enabled =
             //    checkBoxUseMusicBrainz.Enabled =
             //    checkBoxUseAccurateRip.Enabled =
             //    !(FileBrowserState == FileBrowserStateEnum.DragDrop || FileBrowserState == FileBrowserStateEnum.Checkboxes) && converting;
@@ -1300,14 +1299,14 @@ namespace JDP
                 toolStripStatusLabelProcessed.Text = "";
             }
 
-            //rbGapsLeftOut.Visible = 
-            //    rbGapsPrepended.Visible = 
+            //rbGapsLeftOut.Visible =
+            //    rbGapsPrepended.Visible =
             //    rbCorrectorLocateFiles.Visible =
             //    rbCorrectorChangeExtension.Visible =
             //    comboBoxCorrectorFormat.Visible =
-            //    radioButtonAudioHybrid.Visible = 
+            //    radioButtonAudioHybrid.Visible =
             //    radioButtonAudioNone.Visible =
-            //    grpExtra.Visible = 
+            //    grpExtra.Visible =
             //    comboBoxScript.Visible =
             //    checkBoxAdvancedMode.Checked;
         }
