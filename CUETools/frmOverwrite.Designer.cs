@@ -39,9 +39,9 @@
             // 
             this.buttonNo.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.buttonNo.DialogResult = System.Windows.Forms.DialogResult.No;
-            this.buttonNo.Location = new System.Drawing.Point(590, 266);
+            this.buttonNo.Location = new System.Drawing.Point(688, 307);
             this.buttonNo.Name = "buttonNo";
-            this.buttonNo.Size = new System.Drawing.Size(75, 23);
+            this.buttonNo.Size = new System.Drawing.Size(87, 27);
             this.buttonNo.TabIndex = 0;
             this.buttonNo.Text = "No";
             this.buttonNo.UseVisualStyleBackColor = true;
@@ -50,9 +50,9 @@
             // 
             this.buttonYes.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.buttonYes.DialogResult = System.Windows.Forms.DialogResult.Yes;
-            this.buttonYes.Location = new System.Drawing.Point(509, 266);
+            this.buttonYes.Location = new System.Drawing.Point(594, 307);
             this.buttonYes.Name = "buttonYes";
-            this.buttonYes.Size = new System.Drawing.Size(75, 23);
+            this.buttonYes.Size = new System.Drawing.Size(87, 27);
             this.buttonYes.TabIndex = 1;
             this.buttonYes.Text = "Yes";
             this.buttonYes.UseVisualStyleBackColor = true;
@@ -61,9 +61,9 @@
             // 
             this.checkBoxRemember.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.checkBoxRemember.AutoSize = true;
-            this.checkBoxRemember.Location = new System.Drawing.Point(9, 270);
+            this.checkBoxRemember.Location = new System.Drawing.Point(10, 313);
             this.checkBoxRemember.Name = "checkBoxRemember";
-            this.checkBoxRemember.Size = new System.Drawing.Size(128, 17);
+            this.checkBoxRemember.Size = new System.Drawing.Size(147, 19);
             this.checkBoxRemember.TabIndex = 3;
             this.checkBoxRemember.Text = "Remember my choice";
             this.checkBoxRemember.UseVisualStyleBackColor = true;
@@ -72,39 +72,40 @@
             // 
             this.labelAlreadyExist.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.labelAlreadyExist.AutoSize = true;
-            this.labelAlreadyExist.Location = new System.Drawing.Point(213, 271);
+            this.labelAlreadyExist.Location = new System.Drawing.Point(248, 313);
             this.labelAlreadyExist.Name = "labelAlreadyExist";
-            this.labelAlreadyExist.Size = new System.Drawing.Size(203, 13);
+            this.labelAlreadyExist.Size = new System.Drawing.Size(241, 15);
             this.labelAlreadyExist.TabIndex = 2;
             this.labelAlreadyExist.Text = "Some of the files already exist. Overwrite?";
             // 
             // textFiles
             // 
-            this.textFiles.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
-                        | System.Windows.Forms.AnchorStyles.Left)
-                        | System.Windows.Forms.AnchorStyles.Right)));
-            this.textFiles.Font = new System.Drawing.Font("Courier New", 8.25F);
-            this.textFiles.Location = new System.Drawing.Point(9, 9);
+            this.textFiles.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.textFiles.Font = new System.Drawing.Font("Sarasa Term SC", 9F);
+            this.textFiles.Location = new System.Drawing.Point(10, 10);
             this.textFiles.Margin = new System.Windows.Forms.Padding(0);
             this.textFiles.Multiline = true;
             this.textFiles.Name = "textFiles";
             this.textFiles.ReadOnly = true;
             this.textFiles.ScrollBars = System.Windows.Forms.ScrollBars.Both;
-            this.textFiles.Size = new System.Drawing.Size(656, 254);
+            this.textFiles.Size = new System.Drawing.Size(765, 292);
             this.textFiles.TabIndex = 4;
             this.textFiles.TabStop = false;
             this.textFiles.WordWrap = false;
             // 
             // frmOverwrite
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(674, 301);
+            this.ClientSize = new System.Drawing.Size(786, 347);
             this.Controls.Add(this.textFiles);
             this.Controls.Add(this.labelAlreadyExist);
             this.Controls.Add(this.checkBoxRemember);
             this.Controls.Add(this.buttonYes);
             this.Controls.Add(this.buttonNo);
+            this.Font = new System.Drawing.Font("Sarasa UI SC", 9F);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.MaximizeBox = false;
             this.MinimizeBox = false;

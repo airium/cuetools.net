@@ -112,26 +112,26 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="btnCancel.GenerateMember" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <metadata name="btnCancel.GenerateMember" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>False</value>
   </metadata>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="btnCancel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="btnCancel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>268, 320</value>
+    <value>313, 369</value>
   </data>
   <data name="btnCancel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>73, 23</value>
+    <value>85, 27</value>
   </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="btnCancel.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
   </data>
@@ -142,7 +142,7 @@
     <value>btnCancel</value>
   </data>
   <data name="&gt;&gt;btnCancel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;btnCancel.Parent" xml:space="preserve">
     <value>$this</value>
@@ -154,10 +154,10 @@
     <value>True</value>
   </data>
   <data name="checkBoxSeparateDecodingThread.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 140</value>
+    <value>14, 162</value>
   </data>
   <data name="checkBoxSeparateDecodingThread.Size" type="System.Drawing.Size, System.Drawing">
-    <value>168, 17</value>
+    <value>189, 19</value>
   </data>
   <data name="checkBoxSeparateDecodingThread.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -165,7 +165,7 @@
   <data name="checkBoxSeparateDecodingThread.Text" xml:space="preserve">
     <value>Separate thread for decoding</value>
   </data>
-  <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+  <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
   <data name="checkBoxSeparateDecodingThread.ToolTip" xml:space="preserve">
@@ -175,7 +175,7 @@
     <value>checkBoxSeparateDecodingThread</value>
   </data>
   <data name="&gt;&gt;checkBoxSeparateDecodingThread.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;checkBoxSeparateDecodingThread.Parent" xml:space="preserve">
     <value>grpGeneral</value>
@@ -190,10 +190,10 @@
     <value>NoControl</value>
   </data>
   <data name="checkBoxCheckForUpdates.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 55</value>
+    <value>14, 63</value>
   </data>
   <data name="checkBoxCheckForUpdates.Size" type="System.Drawing.Size, System.Drawing">
-    <value>114, 17</value>
+    <value>129, 19</value>
   </data>
   <data name="checkBoxCheckForUpdates.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -208,7 +208,7 @@
     <value>checkBoxCheckForUpdates</value>
   </data>
   <data name="&gt;&gt;checkBoxCheckForUpdates.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;checkBoxCheckForUpdates.Parent" xml:space="preserve">
     <value>grpGeneral</value>
@@ -223,10 +223,10 @@
     <value>NoControl</value>
   </data>
   <data name="chkAllowMultipleInstances.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 21</value>
+    <value>14, 24</value>
   </data>
   <data name="chkAllowMultipleInstances.Size" type="System.Drawing.Size, System.Drawing">
-    <value>138, 17</value>
+    <value>161, 19</value>
   </data>
   <data name="chkAllowMultipleInstances.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -241,7 +241,7 @@
     <value>chkAllowMultipleInstances</value>
   </data>
   <data name="&gt;&gt;chkAllowMultipleInstances.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;chkAllowMultipleInstances.Parent" xml:space="preserve">
     <value>grpGeneral</value>
@@ -256,10 +256,10 @@
     <value>NoControl</value>
   </data>
   <data name="chkReducePriority.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 38</value>
+    <value>14, 44</value>
   </data>
   <data name="chkReducePriority.Size" type="System.Drawing.Size, System.Drawing">
-    <value>173, 17</value>
+    <value>195, 19</value>
   </data>
   <data name="chkReducePriority.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -274,7 +274,7 @@
     <value>chkReducePriority</value>
   </data>
   <data name="&gt;&gt;chkReducePriority.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;chkReducePriority.Parent" xml:space="preserve">
     <value>grpGeneral</value>
@@ -289,10 +289,10 @@
     <value>NoControl</value>
   </data>
   <data name="chkTruncateExtra4206Samples.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 72</value>
+    <value>14, 83</value>
   </data>
   <data name="chkTruncateExtra4206Samples.Size" type="System.Drawing.Size, System.Drawing">
-    <value>215, 17</value>
+    <value>246, 19</value>
   </data>
   <data name="chkTruncateExtra4206Samples.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -307,7 +307,7 @@
     <value>chkTruncateExtra4206Samples</value>
   </data>
   <data name="&gt;&gt;chkTruncateExtra4206Samples.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;chkTruncateExtra4206Samples.Parent" xml:space="preserve">
     <value>grpGeneral</value>
@@ -322,10 +322,10 @@
     <value>NoControl</value>
   </data>
   <data name="chkCreateCUEFileWhenEmbedded.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 106</value>
+    <value>14, 122</value>
   </data>
   <data name="chkCreateCUEFileWhenEmbedded.Size" type="System.Drawing.Size, System.Drawing">
-    <value>189, 17</value>
+    <value>214, 19</value>
   </data>
   <data name="chkCreateCUEFileWhenEmbedded.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -340,7 +340,7 @@
     <value>chkCreateCUEFileWhenEmbedded</value>
   </data>
   <data name="&gt;&gt;chkCreateCUEFileWhenEmbedded.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;chkCreateCUEFileWhenEmbedded.Parent" xml:space="preserve">
     <value>grpGeneral</value>
@@ -355,10 +355,10 @@
     <value>NoControl</value>
   </data>
   <data name="chkCreateM3U.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 89</value>
+    <value>14, 103</value>
   </data>
   <data name="chkCreateM3U.Size" type="System.Drawing.Size, System.Drawing">
-    <value>127, 17</value>
+    <value>144, 19</value>
   </data>
   <data name="chkCreateM3U.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -373,7 +373,7 @@
     <value>chkCreateM3U</value>
   </data>
   <data name="&gt;&gt;chkCreateM3U.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;chkCreateM3U.Parent" xml:space="preserve">
     <value>grpGeneral</value>
@@ -388,10 +388,10 @@
     <value>NoControl</value>
   </data>
   <data name="chkAutoCorrectFilenames.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 123</value>
+    <value>14, 142</value>
   </data>
   <data name="chkAutoCorrectFilenames.Size" type="System.Drawing.Size, System.Drawing">
-    <value>155, 17</value>
+    <value>180, 19</value>
   </data>
   <data name="chkAutoCorrectFilenames.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -406,7 +406,7 @@
     <value>chkAutoCorrectFilenames</value>
   </data>
   <data name="&gt;&gt;chkAutoCorrectFilenames.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;chkAutoCorrectFilenames.Parent" xml:space="preserve">
     <value>grpGeneral</value>
@@ -415,10 +415,10 @@
     <value>7</value>
   </data>
   <data name="grpGeneral.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 6</value>
+    <value>7, 7</value>
   </data>
   <data name="grpGeneral.Size" type="System.Drawing.Size, System.Drawing">
-    <value>252, 182</value>
+    <value>294, 210</value>
   </data>
   <data name="grpGeneral.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -430,7 +430,7 @@
     <value>grpGeneral</value>
   </data>
   <data name="&gt;&gt;grpGeneral.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;grpGeneral.Parent" xml:space="preserve">
     <value>tabPage1</value>
@@ -445,10 +445,10 @@
     <value>NoControl</value>
   </data>
   <data name="labelLanguage.Location" type="System.Drawing.Point, System.Drawing">
-    <value>273, 225</value>
+    <value>318, 260</value>
   </data>
   <data name="labelLanguage.Size" type="System.Drawing.Size, System.Drawing">
-    <value>54, 13</value>
+    <value>63, 15</value>
   </data>
   <data name="labelLanguage.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
@@ -460,7 +460,7 @@
     <value>labelLanguage</value>
   </data>
   <data name="&gt;&gt;labelLanguage.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;labelLanguage.Parent" xml:space="preserve">
     <value>tabPage1</value>
@@ -469,10 +469,10 @@
     <value>0</value>
   </data>
   <data name="comboLanguage.Location" type="System.Drawing.Point, System.Drawing">
-    <value>344, 222</value>
+    <value>401, 256</value>
   </data>
   <data name="comboLanguage.Size" type="System.Drawing.Size, System.Drawing">
-    <value>166, 21</value>
+    <value>193, 23</value>
   </data>
   <data name="comboLanguage.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
@@ -484,7 +484,7 @@
     <value>comboLanguage</value>
   </data>
   <data name="&gt;&gt;comboLanguage.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;comboLanguage.Parent" xml:space="preserve">
     <value>tabPage1</value>
@@ -496,10 +496,10 @@
     <value>NoControl</value>
   </data>
   <data name="btnOK.Location" type="System.Drawing.Point, System.Drawing">
-    <value>189, 320</value>
+    <value>220, 369</value>
   </data>
   <data name="btnOK.Size" type="System.Drawing.Size, System.Drawing">
-    <value>73, 23</value>
+    <value>85, 27</value>
   </data>
   <data name="btnOK.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -511,7 +511,7 @@
     <value>btnOK</value>
   </data>
   <data name="&gt;&gt;btnOK.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;btnOK.Parent" xml:space="preserve">
     <value>$this</value>
@@ -526,10 +526,10 @@
     <value>NoControl</value>
   </data>
   <data name="chkWriteArLogOnConvert.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 37</value>
+    <value>7, 43</value>
   </data>
   <data name="chkWriteArLogOnConvert.Size" type="System.Drawing.Size, System.Drawing">
-    <value>130, 17</value>
+    <value>147, 19</value>
   </data>
   <data name="chkWriteArLogOnConvert.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
@@ -541,7 +541,7 @@
     <value>chkWriteArLogOnConvert</value>
   </data>
   <data name="&gt;&gt;chkWriteArLogOnConvert.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;chkWriteArLogOnConvert.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -556,10 +556,10 @@
     <value>NoControl</value>
   </data>
   <data name="chkWriteArTagsOnConvert.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 20</value>
+    <value>7, 23</value>
   </data>
   <data name="chkWriteArTagsOnConvert.Size" type="System.Drawing.Size, System.Drawing">
-    <value>137, 17</value>
+    <value>154, 19</value>
   </data>
   <data name="chkWriteArTagsOnConvert.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
@@ -575,7 +575,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>chkWriteArTagsOnConvert</value>
   </data>
   <data name="&gt;&gt;chkWriteArTagsOnConvert.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;chkWriteArTagsOnConvert.Parent" xml:space="preserve">
     <value>groupBox1</value>
@@ -584,10 +584,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>1</value>
   </data>
   <data name="groupBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>8, 103</value>
+    <value>9, 119</value>
   </data>
   <data name="groupBox1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>248, 61</value>
+    <value>289, 70</value>
   </data>
   <data name="groupBox1.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -599,7 +599,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>groupBox1</value>
   </data>
   <data name="&gt;&gt;groupBox1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;groupBox1.Parent" xml:space="preserve">
     <value>tabPage2</value>
@@ -608,10 +608,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>4</value>
   </data>
   <data name="chkEncodeWhenZeroOffset.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 49</value>
+    <value>3, 59</value>
   </data>
   <data name="chkEncodeWhenZeroOffset.Size" type="System.Drawing.Size, System.Drawing">
-    <value>104, 19</value>
+    <value>121, 22</value>
   </data>
   <data name="chkEncodeWhenZeroOffset.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -620,7 +620,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>chkEncodeWhenZeroOffset</value>
   </data>
   <data name="&gt;&gt;chkEncodeWhenZeroOffset.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;chkEncodeWhenZeroOffset.Parent" xml:space="preserve">
     <value>tableLayoutPanel2</value>
@@ -632,10 +632,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>Fill</value>
   </data>
   <data name="numEncodeWhenPercent.Location" type="System.Drawing.Point, System.Drawing">
-    <value>194, 3</value>
+    <value>227, 3</value>
   </data>
   <data name="numEncodeWhenPercent.Size" type="System.Drawing.Size, System.Drawing">
-    <value>45, 21</value>
+    <value>53, 22</value>
   </data>
   <data name="numEncodeWhenPercent.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -644,7 +644,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>numEncodeWhenPercent</value>
   </data>
   <data name="&gt;&gt;numEncodeWhenPercent.Type" xml:space="preserve">
-    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;numEncodeWhenPercent.Parent" xml:space="preserve">
     <value>tableLayoutPanel2</value>
@@ -659,10 +659,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="labelEncodeWhenConfidence.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 23</value>
+    <value>3, 28</value>
   </data>
   <data name="labelEncodeWhenConfidence.Size" type="System.Drawing.Size, System.Drawing">
-    <value>185, 23</value>
+    <value>218, 28</value>
   </data>
   <data name="labelEncodeWhenConfidence.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -677,7 +677,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>labelEncodeWhenConfidence</value>
   </data>
   <data name="&gt;&gt;labelEncodeWhenConfidence.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;labelEncodeWhenConfidence.Parent" xml:space="preserve">
     <value>tableLayoutPanel2</value>
@@ -689,10 +689,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>Fill</value>
   </data>
   <data name="numEncodeWhenConfidence.Location" type="System.Drawing.Point, System.Drawing">
-    <value>194, 26</value>
+    <value>227, 31</value>
   </data>
   <data name="numEncodeWhenConfidence.Size" type="System.Drawing.Size, System.Drawing">
-    <value>45, 21</value>
+    <value>53, 22</value>
   </data>
   <data name="numEncodeWhenConfidence.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -701,7 +701,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>numEncodeWhenConfidence</value>
   </data>
   <data name="&gt;&gt;numEncodeWhenConfidence.Type" xml:space="preserve">
-    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;numEncodeWhenConfidence.Parent" xml:space="preserve">
     <value>tableLayoutPanel2</value>
@@ -716,10 +716,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="labelFixWhenConfidence.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 23</value>
+    <value>3, 28</value>
   </data>
   <data name="labelFixWhenConfidence.Size" type="System.Drawing.Size, System.Drawing">
-    <value>187, 23</value>
+    <value>219, 28</value>
   </data>
   <data name="labelFixWhenConfidence.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -734,7 +734,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>labelFixWhenConfidence</value>
   </data>
   <data name="&gt;&gt;labelFixWhenConfidence.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;labelFixWhenConfidence.Parent" xml:space="preserve">
     <value>tableLayoutPanel1</value>
@@ -746,10 +746,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>Fill</value>
   </data>
   <data name="numFixWhenConfidence.Location" type="System.Drawing.Point, System.Drawing">
-    <value>196, 26</value>
+    <value>228, 31</value>
   </data>
   <data name="numFixWhenConfidence.Size" type="System.Drawing.Size, System.Drawing">
-    <value>43, 21</value>
+    <value>52, 22</value>
   </data>
   <data name="numFixWhenConfidence.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -758,7 +758,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>numFixWhenConfidence</value>
   </data>
   <data name="&gt;&gt;numFixWhenConfidence.Type" xml:space="preserve">
-    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;numFixWhenConfidence.Parent" xml:space="preserve">
     <value>tableLayoutPanel1</value>
@@ -770,10 +770,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>Fill</value>
   </data>
   <data name="numFixWhenPercent.Location" type="System.Drawing.Point, System.Drawing">
-    <value>196, 3</value>
+    <value>228, 3</value>
   </data>
   <data name="numFixWhenPercent.Size" type="System.Drawing.Size, System.Drawing">
-    <value>43, 21</value>
+    <value>52, 22</value>
   </data>
   <data name="numFixWhenPercent.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -782,7 +782,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>numFixWhenPercent</value>
   </data>
   <data name="&gt;&gt;numFixWhenPercent.Type" xml:space="preserve">
-    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;numFixWhenPercent.Parent" xml:space="preserve">
     <value>tableLayoutPanel1</value>
@@ -797,10 +797,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="chkFilenamesANSISafe.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 98</value>
+    <value>14, 113</value>
   </data>
   <data name="chkFilenamesANSISafe.Size" type="System.Drawing.Size, System.Drawing">
-    <value>128, 17</value>
+    <value>146, 19</value>
   </data>
   <data name="chkFilenamesANSISafe.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -815,7 +815,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>chkFilenamesANSISafe</value>
   </data>
   <data name="&gt;&gt;chkFilenamesANSISafe.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;chkFilenamesANSISafe.Parent" xml:space="preserve">
     <value>grpAudioFilenames</value>
@@ -830,10 +830,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="chkWriteARTagsOnVerify.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 20</value>
+    <value>7, 23</value>
   </data>
   <data name="chkWriteARTagsOnVerify.Size" type="System.Drawing.Size, System.Drawing">
-    <value>137, 17</value>
+    <value>154, 19</value>
   </data>
   <data name="chkWriteARTagsOnVerify.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -849,7 +849,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>chkWriteARTagsOnVerify</value>
   </data>
   <data name="&gt;&gt;chkWriteARTagsOnVerify.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;chkWriteARTagsOnVerify.Parent" xml:space="preserve">
     <value>groupBoxVerify</value>
@@ -864,10 +864,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="chkHDCDDecode.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 43</value>
+    <value>7, 50</value>
   </data>
   <data name="chkHDCDDecode.Size" type="System.Drawing.Size, System.Drawing">
-    <value>136, 17</value>
+    <value>159, 19</value>
   </data>
   <data name="chkHDCDDecode.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -882,7 +882,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>chkHDCDDecode</value>
   </data>
   <data name="&gt;&gt;chkHDCDDecode.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;chkHDCDDecode.Parent" xml:space="preserve">
     <value>grpHDCD</value>
@@ -897,10 +897,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="chkHDCDStopLooking.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 20</value>
+    <value>7, 23</value>
   </data>
   <data name="chkHDCDStopLooking.Size" type="System.Drawing.Size, System.Drawing">
-    <value>168, 17</value>
+    <value>193, 19</value>
   </data>
   <data name="chkHDCDStopLooking.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -915,7 +915,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>chkHDCDStopLooking</value>
   </data>
   <data name="&gt;&gt;chkHDCDStopLooking.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;chkHDCDStopLooking.Parent" xml:space="preserve">
     <value>grpHDCD</value>
@@ -930,10 +930,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="chkHDCD24bit.Location" type="System.Drawing.Point, System.Drawing">
-    <value>23, 89</value>
+    <value>27, 103</value>
   </data>
   <data name="chkHDCD24bit.Size" type="System.Drawing.Size, System.Drawing">
-    <value>143, 17</value>
+    <value>165, 19</value>
   </data>
   <data name="chkHDCD24bit.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -948,7 +948,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>chkHDCD24bit</value>
   </data>
   <data name="&gt;&gt;chkHDCD24bit.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;chkHDCD24bit.Parent" xml:space="preserve">
     <value>grpHDCD</value>
@@ -963,10 +963,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="chkHDCDLW16.Location" type="System.Drawing.Point, System.Drawing">
-    <value>23, 66</value>
+    <value>27, 76</value>
   </data>
   <data name="chkHDCDLW16.Size" type="System.Drawing.Size, System.Drawing">
-    <value>149, 17</value>
+    <value>169, 19</value>
   </data>
   <data name="chkHDCDLW16.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -981,7 +981,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>chkHDCDLW16</value>
   </data>
   <data name="&gt;&gt;chkHDCDLW16.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;chkHDCDLW16.Parent" xml:space="preserve">
     <value>grpHDCD</value>
@@ -996,10 +996,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="chkEmbedLog.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 47</value>
+    <value>7, 54</value>
   </data>
   <data name="chkEmbedLog.Size" type="System.Drawing.Size, System.Drawing">
-    <value>184, 17</value>
+    <value>207, 19</value>
   </data>
   <data name="chkEmbedLog.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -1014,7 +1014,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>chkEmbedLog</value>
   </data>
   <data name="&gt;&gt;chkEmbedLog.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;chkEmbedLog.Parent" xml:space="preserve">
     <value>groupBoxTagging</value>
@@ -1029,10 +1029,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="chkKeepOriginalFilenames.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 20</value>
+    <value>14, 23</value>
   </data>
   <data name="chkKeepOriginalFilenames.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 17</value>
+    <value>156, 19</value>
   </data>
   <data name="chkKeepOriginalFilenames.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -1047,7 +1047,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>chkKeepOriginalFilenames</value>
   </data>
   <data name="&gt;&gt;chkKeepOriginalFilenames.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;chkKeepOriginalFilenames.Parent" xml:space="preserve">
     <value>grpAudioFilenames</value>
@@ -1068,10 +1068,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>%tracknumber%. %album artist% - %title%</value>
   </data>
   <data name="txtTrackFilenameFormat.Location" type="System.Drawing.Point, System.Drawing">
-    <value>97, 68</value>
+    <value>113, 78</value>
   </data>
   <data name="txtTrackFilenameFormat.Size" type="System.Drawing.Size, System.Drawing">
-    <value>149, 21</value>
+    <value>173, 22</value>
   </data>
   <data name="txtTrackFilenameFormat.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -1086,7 +1086,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>txtTrackFilenameFormat</value>
   </data>
   <data name="&gt;&gt;txtTrackFilenameFormat.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;txtTrackFilenameFormat.Parent" xml:space="preserve">
     <value>grpAudioFilenames</value>
@@ -1098,10 +1098,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>%filename%</value>
   </data>
   <data name="txtSingleFilenameFormat.Location" type="System.Drawing.Point, System.Drawing">
-    <value>97, 40</value>
+    <value>113, 46</value>
   </data>
   <data name="txtSingleFilenameFormat.Size" type="System.Drawing.Size, System.Drawing">
-    <value>149, 21</value>
+    <value>173, 22</value>
   </data>
   <data name="txtSingleFilenameFormat.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -1116,7 +1116,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>txtSingleFilenameFormat</value>
   </data>
   <data name="&gt;&gt;txtSingleFilenameFormat.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;txtSingleFilenameFormat.Parent" xml:space="preserve">
     <value>grpAudioFilenames</value>
@@ -1127,17 +1127,17 @@ You can set up foobar2000 to show those values, and see if your music was ripped
   <data name="textBoxEncoderModes.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Left, Right</value>
   </data>
-  <metadata name="encodersBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+  <metadata name="encodersBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>575, 17</value>
   </metadata>
-  <metadata name="cUEConfigBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+  <metadata name="cUEConfigBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>251, 17</value>
   </metadata>
   <data name="textBoxEncoderModes.Location" type="System.Drawing.Point, System.Drawing">
-    <value>96, 78</value>
+    <value>112, 90</value>
   </data>
   <data name="textBoxEncoderModes.Size" type="System.Drawing.Size, System.Drawing">
-    <value>287, 21</value>
+    <value>337, 22</value>
   </data>
   <data name="textBoxEncoderModes.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -1149,7 +1149,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>textBoxEncoderModes</value>
   </data>
   <data name="&gt;&gt;textBoxEncoderModes.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;textBoxEncoderModes.Parent" xml:space="preserve">
     <value>groupBoxExternalEncoder</value>
@@ -1170,10 +1170,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="checkBoxEncoderLossless.Location" type="System.Drawing.Point, System.Drawing">
-    <value>314, 109</value>
+    <value>371, 126</value>
   </data>
   <data name="checkBoxEncoderLossless.Size" type="System.Drawing.Size, System.Drawing">
-    <value>65, 17</value>
+    <value>74, 19</value>
   </data>
   <data name="checkBoxEncoderLossless.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -1188,7 +1188,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>checkBoxEncoderLossless</value>
   </data>
   <data name="&gt;&gt;checkBoxEncoderLossless.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;checkBoxEncoderLossless.Parent" xml:space="preserve">
     <value>groupBoxExternalEncoder</value>
@@ -1200,10 +1200,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>Top, Left, Right</value>
   </data>
   <data name="textBoxEncoderPath.Location" type="System.Drawing.Point, System.Drawing">
-    <value>96, 20</value>
+    <value>112, 23</value>
   </data>
   <data name="textBoxEncoderPath.Size" type="System.Drawing.Size, System.Drawing">
-    <value>287, 21</value>
+    <value>337, 22</value>
   </data>
   <data name="textBoxEncoderPath.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -1215,7 +1215,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>textBoxEncoderPath</value>
   </data>
   <data name="&gt;&gt;textBoxEncoderPath.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;textBoxEncoderPath.Parent" xml:space="preserve">
     <value>groupBoxExternalEncoder</value>
@@ -1227,10 +1227,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>Top, Left, Right</value>
   </data>
   <data name="textBoxEncoderParameters.Location" type="System.Drawing.Point, System.Drawing">
-    <value>96, 49</value>
+    <value>112, 57</value>
   </data>
   <data name="textBoxEncoderParameters.Size" type="System.Drawing.Size, System.Drawing">
-    <value>287, 21</value>
+    <value>337, 22</value>
   </data>
   <data name="textBoxEncoderParameters.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -1242,7 +1242,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>textBoxEncoderParameters</value>
   </data>
   <data name="&gt;&gt;textBoxEncoderParameters.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;textBoxEncoderParameters.Parent" xml:space="preserve">
     <value>groupBoxExternalEncoder</value>
@@ -1257,10 +1257,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="rbGapsLeftOut.Location" type="System.Drawing.Point, System.Drawing">
-    <value>10, 71</value>
+    <value>12, 82</value>
   </data>
   <data name="rbGapsLeftOut.Size" type="System.Drawing.Size, System.Drawing">
-    <value>92, 17</value>
+    <value>102, 19</value>
   </data>
   <data name="rbGapsLeftOut.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
@@ -1275,7 +1275,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>rbGapsLeftOut</value>
   </data>
   <data name="&gt;&gt;rbGapsLeftOut.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;rbGapsLeftOut.Parent" xml:space="preserve">
     <value>groupBoxGaps</value>
@@ -1290,10 +1290,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="rbGapsPrepended.Location" type="System.Drawing.Point, System.Drawing">
-    <value>10, 54</value>
+    <value>12, 62</value>
   </data>
   <data name="rbGapsPrepended.Size" type="System.Drawing.Size, System.Drawing">
-    <value>104, 17</value>
+    <value>118, 19</value>
   </data>
   <data name="rbGapsPrepended.TabIndex" type="System.Int32, mscorlib">
     <value>14</value>
@@ -1308,7 +1308,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>rbGapsPrepended</value>
   </data>
   <data name="&gt;&gt;rbGapsPrepended.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;rbGapsPrepended.Parent" xml:space="preserve">
     <value>groupBoxGaps</value>
@@ -1323,10 +1323,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="rbGapsAppended.Location" type="System.Drawing.Point, System.Drawing">
-    <value>10, 37</value>
+    <value>12, 43</value>
   </data>
   <data name="rbGapsAppended.Size" type="System.Drawing.Size, System.Drawing">
-    <value>101, 17</value>
+    <value>114, 19</value>
   </data>
   <data name="rbGapsAppended.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -1341,7 +1341,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>rbGapsAppended</value>
   </data>
   <data name="&gt;&gt;rbGapsAppended.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;rbGapsAppended.Parent" xml:space="preserve">
     <value>groupBoxGaps</value>
@@ -1356,10 +1356,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="rbGapsPlusHTOA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>10, 20</value>
+    <value>12, 23</value>
   </data>
   <data name="rbGapsPlusHTOA.Size" type="System.Drawing.Size, System.Drawing">
-    <value>143, 17</value>
+    <value>162, 19</value>
   </data>
   <data name="rbGapsPlusHTOA.TabIndex" type="System.Int32, mscorlib">
     <value>16</value>
@@ -1374,7 +1374,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>rbGapsPlusHTOA</value>
   </data>
   <data name="&gt;&gt;rbGapsPlusHTOA.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;rbGapsPlusHTOA.Parent" xml:space="preserve">
     <value>groupBoxGaps</value>
@@ -1386,10 +1386,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>Top, Left, Right</value>
   </data>
   <data name="textBoxEncoderName.Location" type="System.Drawing.Point, System.Drawing">
-    <value>96, 107</value>
+    <value>112, 123</value>
   </data>
   <data name="textBoxEncoderName.Size" type="System.Drawing.Size, System.Drawing">
-    <value>212, 21</value>
+    <value>250, 22</value>
   </data>
   <data name="textBoxEncoderName.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -1401,7 +1401,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>textBoxEncoderName</value>
   </data>
   <data name="&gt;&gt;textBoxEncoderName.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;textBoxEncoderName.Parent" xml:space="preserve">
     <value>groupBoxExternalEncoder</value>
@@ -1412,14 +1412,14 @@ You can set up foobar2000 to show those values, and see if your music was ripped
   <data name="textBoxDecoderName.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Left, Right</value>
   </data>
-  <metadata name="bindingSourceDecoders.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+  <metadata name="bindingSourceDecoders.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>755, 17</value>
   </metadata>
   <data name="textBoxDecoderName.Location" type="System.Drawing.Point, System.Drawing">
-    <value>96, 78</value>
+    <value>112, 90</value>
   </data>
   <data name="textBoxDecoderName.Size" type="System.Drawing.Size, System.Drawing">
-    <value>287, 21</value>
+    <value>337, 22</value>
   </data>
   <data name="textBoxDecoderName.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -1431,7 +1431,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>textBoxDecoderName</value>
   </data>
   <data name="&gt;&gt;textBoxDecoderName.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;textBoxDecoderName.Parent" xml:space="preserve">
     <value>groupBoxExternalDecoder</value>
@@ -1440,10 +1440,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>1</value>
   </data>
   <data name="txtSpecialExceptions.Location" type="System.Drawing.Point, System.Drawing">
-    <value>97, 132</value>
+    <value>113, 152</value>
   </data>
   <data name="txtSpecialExceptions.Size" type="System.Drawing.Size, System.Drawing">
-    <value>149, 21</value>
+    <value>173, 22</value>
   </data>
   <data name="txtSpecialExceptions.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -1455,7 +1455,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>txtSpecialExceptions</value>
   </data>
   <data name="&gt;&gt;txtSpecialExceptions.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;txtSpecialExceptions.Parent" xml:space="preserve">
     <value>grpAudioFilenames</value>
@@ -1470,10 +1470,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="chkRemoveSpecial.Location" type="System.Drawing.Point, System.Drawing">
-    <value>34, 115</value>
+    <value>40, 133</value>
   </data>
   <data name="chkRemoveSpecial.Size" type="System.Drawing.Size, System.Drawing">
-    <value>194, 17</value>
+    <value>222, 19</value>
   </data>
   <data name="chkRemoveSpecial.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -1485,7 +1485,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>chkRemoveSpecial</value>
   </data>
   <data name="&gt;&gt;chkRemoveSpecial.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;chkRemoveSpecial.Parent" xml:space="preserve">
     <value>grpAudioFilenames</value>
@@ -1500,10 +1500,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="chkReplaceSpaces.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 165</value>
+    <value>14, 190</value>
   </data>
   <data name="chkReplaceSpaces.Size" type="System.Drawing.Size, System.Drawing">
-    <value>185, 17</value>
+    <value>214, 19</value>
   </data>
   <data name="chkReplaceSpaces.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -1515,7 +1515,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>chkReplaceSpaces</value>
   </data>
   <data name="&gt;&gt;chkReplaceSpaces.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;chkReplaceSpaces.Parent" xml:space="preserve">
     <value>grpAudioFilenames</value>
@@ -1530,10 +1530,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="lblTrackFilenameFormat.Location" type="System.Drawing.Point, System.Drawing">
-    <value>11, 71</value>
+    <value>13, 82</value>
   </data>
   <data name="lblTrackFilenameFormat.Size" type="System.Drawing.Size, System.Drawing">
-    <value>72, 13</value>
+    <value>81, 15</value>
   </data>
   <data name="lblTrackFilenameFormat.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -1545,7 +1545,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>lblTrackFilenameFormat</value>
   </data>
   <data name="&gt;&gt;lblTrackFilenameFormat.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;lblTrackFilenameFormat.Parent" xml:space="preserve">
     <value>grpAudioFilenames</value>
@@ -1560,10 +1560,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="lblSingleFilenameFormat.Location" type="System.Drawing.Point, System.Drawing">
-    <value>9, 43</value>
+    <value>10, 50</value>
   </data>
   <data name="lblSingleFilenameFormat.Size" type="System.Drawing.Size, System.Drawing">
-    <value>74, 13</value>
+    <value>84, 15</value>
   </data>
   <data name="lblSingleFilenameFormat.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -1575,7 +1575,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>lblSingleFilenameFormat</value>
   </data>
   <data name="&gt;&gt;lblSingleFilenameFormat.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;lblSingleFilenameFormat.Parent" xml:space="preserve">
     <value>grpAudioFilenames</value>
@@ -1584,10 +1584,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>7</value>
   </data>
   <data name="grpAudioFilenames.Location" type="System.Drawing.Point, System.Drawing">
-    <value>264, 6</value>
+    <value>308, 7</value>
   </data>
   <data name="grpAudioFilenames.Size" type="System.Drawing.Size, System.Drawing">
-    <value>252, 195</value>
+    <value>294, 225</value>
   </data>
   <data name="grpAudioFilenames.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -1599,7 +1599,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>grpAudioFilenames</value>
   </data>
   <data name="&gt;&gt;grpAudioFilenames.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;grpAudioFilenames.Parent" xml:space="preserve">
     <value>tabPage1</value>
@@ -1611,10 +1611,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>Top, Left, Right</value>
   </data>
   <data name="groupBoxGaps.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 193</value>
+    <value>7, 223</value>
   </data>
   <data name="groupBoxGaps.Size" type="System.Drawing.Size, System.Drawing">
-    <value>250, 98</value>
+    <value>292, 113</value>
   </data>
   <data name="groupBoxGaps.TabIndex" type="System.Int32, mscorlib">
     <value>16</value>
@@ -1626,7 +1626,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>groupBoxGaps</value>
   </data>
   <data name="&gt;&gt;groupBoxGaps.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;groupBoxGaps.Parent" xml:space="preserve">
     <value>tabPage1</value>
@@ -1635,13 +1635,13 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>2</value>
   </data>
   <data name="tabPage1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 24</value>
   </data>
   <data name="tabPage1.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tabPage1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>535, 291</value>
+    <value>625, 338</value>
   </data>
   <data name="tabPage1.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -1653,7 +1653,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>tabPage1</value>
   </data>
   <data name="&gt;&gt;tabPage1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;tabPage1.Parent" xml:space="preserve">
     <value>tabControl1</value>
@@ -1677,7 +1677,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>3, 3</value>
   </data>
   <data name="checkBoxCopyAlbumArt.Size" type="System.Drawing.Size, System.Drawing">
-    <value>142, 17</value>
+    <value>167, 21</value>
   </data>
   <data name="checkBoxCopyAlbumArt.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -1689,7 +1689,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>checkBoxCopyAlbumArt</value>
   </data>
   <data name="&gt;&gt;checkBoxCopyAlbumArt.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;checkBoxCopyAlbumArt.Parent" xml:space="preserve">
     <value>tableLayoutPanel3</value>
@@ -1707,10 +1707,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="checkBoxExtractAlbumArt.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 49</value>
+    <value>3, 57</value>
   </data>
   <data name="checkBoxExtractAlbumArt.Size" type="System.Drawing.Size, System.Drawing">
-    <value>142, 17</value>
+    <value>167, 21</value>
   </data>
   <data name="checkBoxExtractAlbumArt.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
@@ -1722,7 +1722,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>checkBoxExtractAlbumArt</value>
   </data>
   <data name="&gt;&gt;checkBoxExtractAlbumArt.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;checkBoxExtractAlbumArt.Parent" xml:space="preserve">
     <value>tableLayoutPanel3</value>
@@ -1740,10 +1740,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="checkBoxEmbedAlbumArt.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 26</value>
+    <value>3, 30</value>
   </data>
   <data name="checkBoxEmbedAlbumArt.Size" type="System.Drawing.Size, System.Drawing">
-    <value>142, 17</value>
+    <value>167, 21</value>
   </data>
   <data name="checkBoxEmbedAlbumArt.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -1755,7 +1755,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>checkBoxEmbedAlbumArt</value>
   </data>
   <data name="&gt;&gt;checkBoxEmbedAlbumArt.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;checkBoxEmbedAlbumArt.Parent" xml:space="preserve">
     <value>tableLayoutPanel3</value>
@@ -1770,13 +1770,13 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="labelAlbumArtMaximumResolution.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 72</value>
+    <value>3, 84</value>
   </data>
   <data name="labelAlbumArtMaximumResolution.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
   <data name="labelAlbumArtMaximumResolution.Size" type="System.Drawing.Size, System.Drawing">
-    <value>203, 20</value>
+    <value>238, 23</value>
   </data>
   <data name="labelAlbumArtMaximumResolution.TabIndex" type="System.Int32, mscorlib">
     <value>20</value>
@@ -1791,7 +1791,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>labelAlbumArtMaximumResolution</value>
   </data>
   <data name="&gt;&gt;labelAlbumArtMaximumResolution.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;labelAlbumArtMaximumResolution.Parent" xml:space="preserve">
     <value>tableLayoutPanel3</value>
@@ -1803,10 +1803,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>Fill</value>
   </data>
   <data name="numericUpDownMaxResolution.Location" type="System.Drawing.Point, System.Drawing">
-    <value>212, 72</value>
+    <value>247, 84</value>
   </data>
   <data name="numericUpDownMaxResolution.Size" type="System.Drawing.Size, System.Drawing">
-    <value>57, 21</value>
+    <value>67, 22</value>
   </data>
   <data name="numericUpDownMaxResolution.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
@@ -1818,7 +1818,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>numericUpDownMaxResolution</value>
   </data>
   <data name="&gt;&gt;numericUpDownMaxResolution.Type" xml:space="preserve">
-    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;numericUpDownMaxResolution.Parent" xml:space="preserve">
     <value>tableLayoutPanel3</value>
@@ -1842,10 +1842,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>Fill</value>
   </data>
   <data name="textBoxAlArtFilenameFormat.Location" type="System.Drawing.Point, System.Drawing">
-    <value>151, 49</value>
+    <value>176, 57</value>
   </data>
   <data name="textBoxAlArtFilenameFormat.Size" type="System.Drawing.Size, System.Drawing">
-    <value>118, 21</value>
+    <value>138, 22</value>
   </data>
   <data name="textBoxAlArtFilenameFormat.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
@@ -1854,7 +1854,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>textBoxAlArtFilenameFormat</value>
   </data>
   <data name="&gt;&gt;textBoxAlArtFilenameFormat.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;textBoxAlArtFilenameFormat.Parent" xml:space="preserve">
     <value>tableLayoutPanel3</value>
@@ -1863,13 +1863,13 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>5</value>
   </data>
   <data name="tableLayoutPanel3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 20</value>
+    <value>7, 23</value>
   </data>
   <data name="tableLayoutPanel3.RowCount" type="System.Int32, mscorlib">
     <value>4</value>
   </data>
   <data name="tableLayoutPanel3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>272, 95</value>
+    <value>317, 110</value>
   </data>
   <data name="tableLayoutPanel3.TabIndex" type="System.Int32, mscorlib">
     <value>22</value>
@@ -1878,7 +1878,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>tableLayoutPanel3</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel3.Parent" xml:space="preserve">
     <value>groupBoxAlbumArt</value>
@@ -1890,10 +1890,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="checkBoxCopyAlbumArt" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="checkBoxExtractAlbumArt" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="checkBoxEmbedAlbumArt" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="labelAlbumArtMaximumResolution" Row="3" RowSpan="1" Column="0" ColumnSpan="2" /&gt;&lt;Control Name="numericUpDownMaxResolution" Row="3" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="textBoxAlArtFilenameFormat" Row="2" RowSpan="1" Column="1" ColumnSpan="2" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,54.41177,Percent,22.42647,Percent,22.79412" /&gt;&lt;Rows Styles="Percent,25,Percent,25,Percent,25,Percent,25" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
   <data name="groupBoxAlbumArt.Location" type="System.Drawing.Point, System.Drawing">
-    <value>242, 3</value>
+    <value>282, 3</value>
   </data>
   <data name="groupBoxAlbumArt.Size" type="System.Drawing.Size, System.Drawing">
-    <value>284, 275</value>
+    <value>331, 317</value>
   </data>
   <data name="groupBoxAlbumArt.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -1905,7 +1905,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>groupBoxAlbumArt</value>
   </data>
   <data name="&gt;&gt;groupBoxAlbumArt.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;groupBoxAlbumArt.Parent" xml:space="preserve">
     <value>tabPage6</value>
@@ -1920,10 +1920,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="chkExtractLog.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 30</value>
+    <value>7, 35</value>
   </data>
   <data name="chkExtractLog.Size" type="System.Drawing.Size, System.Drawing">
-    <value>95, 17</value>
+    <value>105, 19</value>
   </data>
   <data name="chkExtractLog.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -1935,7 +1935,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>chkExtractLog</value>
   </data>
   <data name="&gt;&gt;chkExtractLog.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;chkExtractLog.Parent" xml:space="preserve">
     <value>groupBoxTagging</value>
@@ -1950,10 +1950,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="checkBoxCopyBasicTags.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 115</value>
+    <value>7, 133</value>
   </data>
   <data name="checkBoxCopyBasicTags.Size" type="System.Drawing.Size, System.Drawing">
-    <value>102, 17</value>
+    <value>116, 19</value>
   </data>
   <data name="checkBoxCopyBasicTags.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -1965,7 +1965,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>checkBoxCopyBasicTags</value>
   </data>
   <data name="&gt;&gt;checkBoxCopyBasicTags.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;checkBoxCopyBasicTags.Parent" xml:space="preserve">
     <value>groupBoxTagging</value>
@@ -1980,10 +1980,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="checkBoxWriteCUETags.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 64</value>
+    <value>7, 74</value>
   </data>
   <data name="checkBoxWriteCUETags.Size" type="System.Drawing.Size, System.Drawing">
-    <value>176, 17</value>
+    <value>199, 19</value>
   </data>
   <data name="checkBoxWriteCUETags.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -1995,7 +1995,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>checkBoxWriteCUETags</value>
   </data>
   <data name="&gt;&gt;checkBoxWriteCUETags.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;checkBoxWriteCUETags.Parent" xml:space="preserve">
     <value>groupBoxTagging</value>
@@ -2010,10 +2010,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="checkBoxCopyUnknownTags.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 132</value>
+    <value>7, 152</value>
   </data>
   <data name="checkBoxCopyUnknownTags.Size" type="System.Drawing.Size, System.Drawing">
-    <value>121, 17</value>
+    <value>138, 19</value>
   </data>
   <data name="checkBoxCopyUnknownTags.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -2025,7 +2025,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>checkBoxCopyUnknownTags</value>
   </data>
   <data name="&gt;&gt;checkBoxCopyUnknownTags.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;checkBoxCopyUnknownTags.Parent" xml:space="preserve">
     <value>groupBoxTagging</value>
@@ -2040,10 +2040,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="chkOverwriteTags.Location" type="System.Drawing.Point, System.Drawing">
-    <value>18, 98</value>
+    <value>21, 113</value>
   </data>
   <data name="chkOverwriteTags.Size" type="System.Drawing.Size, System.Drawing">
-    <value>122, 17</value>
+    <value>137, 19</value>
   </data>
   <data name="chkOverwriteTags.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -2055,7 +2055,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>chkOverwriteTags</value>
   </data>
   <data name="&gt;&gt;chkOverwriteTags.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;chkOverwriteTags.Parent" xml:space="preserve">
     <value>groupBoxTagging</value>
@@ -2070,10 +2070,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="chkFillUpCUE.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 81</value>
+    <value>7, 93</value>
   </data>
   <data name="chkFillUpCUE.Size" type="System.Drawing.Size, System.Drawing">
-    <value>187, 17</value>
+    <value>215, 19</value>
   </data>
   <data name="chkFillUpCUE.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -2085,7 +2085,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>chkFillUpCUE</value>
   </data>
   <data name="&gt;&gt;chkFillUpCUE.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;chkFillUpCUE.Parent" xml:space="preserve">
     <value>groupBoxTagging</value>
@@ -2094,10 +2094,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>5</value>
   </data>
   <data name="groupBoxTagging.Location" type="System.Drawing.Point, System.Drawing">
-    <value>8, 3</value>
+    <value>9, 3</value>
   </data>
   <data name="groupBoxTagging.Size" type="System.Drawing.Size, System.Drawing">
-    <value>226, 275</value>
+    <value>264, 317</value>
   </data>
   <data name="groupBoxTagging.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -2106,7 +2106,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>groupBoxTagging</value>
   </data>
   <data name="&gt;&gt;groupBoxTagging.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;groupBoxTagging.Parent" xml:space="preserve">
     <value>tabPage6</value>
@@ -2115,10 +2115,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>1</value>
   </data>
   <data name="tabPage6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 24</value>
   </data>
   <data name="tabPage6.Size" type="System.Drawing.Size, System.Drawing">
-    <value>535, 291</value>
+    <value>625, 338</value>
   </data>
   <data name="tabPage6.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
@@ -2130,7 +2130,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>tabPage6</value>
   </data>
   <data name="&gt;&gt;tabPage6.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;tabPage6.Parent" xml:space="preserve">
     <value>tabControl1</value>
@@ -2163,10 +2163,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>accurip['('%unique%')'].log</value>
   </data>
   <data name="textBoxARLogExtension.Location" type="System.Drawing.Point, System.Drawing">
-    <value>90, 20</value>
+    <value>105, 23</value>
   </data>
   <data name="textBoxARLogExtension.Size" type="System.Drawing.Size, System.Drawing">
-    <value>154, 21</value>
+    <value>179, 22</value>
   </data>
   <data name="textBoxARLogExtension.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -2175,7 +2175,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>textBoxARLogExtension</value>
   </data>
   <data name="&gt;&gt;textBoxARLogExtension.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;textBoxARLogExtension.Parent" xml:space="preserve">
     <value>groupBoxARLog</value>
@@ -2190,10 +2190,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="labelLogFileExtension.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 23</value>
+    <value>7, 27</value>
   </data>
   <data name="labelLogFileExtension.Size" type="System.Drawing.Size, System.Drawing">
-    <value>73, 13</value>
+    <value>82, 15</value>
   </data>
   <data name="labelLogFileExtension.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -2205,7 +2205,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>labelLogFileExtension</value>
   </data>
   <data name="&gt;&gt;labelLogFileExtension.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;labelLogFileExtension.Parent" xml:space="preserve">
     <value>groupBoxARLog</value>
@@ -2220,10 +2220,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="checkBoxARLogVerbose.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 53</value>
+    <value>7, 61</value>
   </data>
   <data name="checkBoxARLogVerbose.Size" type="System.Drawing.Size, System.Drawing">
-    <value>65, 17</value>
+    <value>71, 19</value>
   </data>
   <data name="checkBoxARLogVerbose.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -2235,7 +2235,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>checkBoxARLogVerbose</value>
   </data>
   <data name="&gt;&gt;checkBoxARLogVerbose.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;checkBoxARLogVerbose.Parent" xml:space="preserve">
     <value>groupBoxARLog</value>
@@ -2244,10 +2244,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>2</value>
   </data>
   <data name="groupBoxARLog.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 170</value>
+    <value>7, 196</value>
   </data>
   <data name="groupBoxARLog.Size" type="System.Drawing.Size, System.Drawing">
-    <value>250, 85</value>
+    <value>292, 98</value>
   </data>
   <data name="groupBoxARLog.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -2259,7 +2259,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>groupBoxARLog</value>
   </data>
   <data name="&gt;&gt;groupBoxARLog.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;groupBoxARLog.Parent" xml:space="preserve">
     <value>tabPage2</value>
@@ -2280,7 +2280,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>3, 0</value>
   </data>
   <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>185, 23</value>
+    <value>218, 28</value>
   </data>
   <data name="label2.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -2295,7 +2295,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>label2</value>
   </data>
   <data name="&gt;&gt;label2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;label2.Parent" xml:space="preserve">
     <value>tableLayoutPanel2</value>
@@ -2307,13 +2307,13 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>Fill</value>
   </data>
   <data name="tableLayoutPanel2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 17</value>
+    <value>3, 18</value>
   </data>
   <data name="tableLayoutPanel2.RowCount" type="System.Int32, mscorlib">
     <value>3</value>
   </data>
   <data name="tableLayoutPanel2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>242, 71</value>
+    <value>283, 84</value>
   </data>
   <data name="tableLayoutPanel2.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -2322,7 +2322,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>tableLayoutPanel2</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel2.Parent" xml:space="preserve">
     <value>groupBox5</value>
@@ -2334,10 +2334,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="label2" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="chkEncodeWhenZeroOffset" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="numEncodeWhenPercent" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="labelEncodeWhenConfidence" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="numEncodeWhenConfidence" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,79.33884,Percent,20.66116" /&gt;&lt;Rows Styles="Percent,33.33333,Percent,33.33333,Percent,33.33333" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
   <data name="groupBox5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>278, 6</value>
+    <value>324, 7</value>
   </data>
   <data name="groupBox5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>248, 91</value>
+    <value>289, 105</value>
   </data>
   <data name="groupBox5.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -2349,7 +2349,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>groupBox5</value>
   </data>
   <data name="&gt;&gt;groupBox5.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;groupBox5.Parent" xml:space="preserve">
     <value>tabPage2</value>
@@ -2370,13 +2370,13 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="checkBoxFixToNearest.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 49</value>
+    <value>3, 59</value>
   </data>
   <data name="checkBoxFixToNearest.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
     <value>Yes</value>
   </data>
   <data name="checkBoxFixToNearest.Size" type="System.Drawing.Size, System.Drawing">
-    <value>236, 19</value>
+    <value>277, 22</value>
   </data>
   <data name="checkBoxFixToNearest.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -2388,7 +2388,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>checkBoxFixToNearest</value>
   </data>
   <data name="&gt;&gt;checkBoxFixToNearest.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;checkBoxFixToNearest.Parent" xml:space="preserve">
     <value>tableLayoutPanel1</value>
@@ -2406,7 +2406,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>3, 0</value>
   </data>
   <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>187, 23</value>
+    <value>219, 28</value>
   </data>
   <data name="label3.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
@@ -2421,7 +2421,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>label3</value>
   </data>
   <data name="&gt;&gt;label3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;label3.Parent" xml:space="preserve">
     <value>tableLayoutPanel1</value>
@@ -2433,13 +2433,13 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>Fill</value>
   </data>
   <data name="tableLayoutPanel1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 17</value>
+    <value>3, 18</value>
   </data>
   <data name="tableLayoutPanel1.RowCount" type="System.Int32, mscorlib">
     <value>3</value>
   </data>
   <data name="tableLayoutPanel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>242, 71</value>
+    <value>283, 84</value>
   </data>
   <data name="tableLayoutPanel1.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
@@ -2448,7 +2448,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>tableLayoutPanel1</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel1.Parent" xml:space="preserve">
     <value>groupBox4</value>
@@ -2460,10 +2460,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="checkBoxFixToNearest" Row="2" RowSpan="1" Column="0" ColumnSpan="2" /&gt;&lt;Control Name="label3" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="numFixWhenConfidence" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="labelFixWhenConfidence" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="numFixWhenPercent" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,79.75207,Percent,20.24793" /&gt;&lt;Rows Styles="Percent,33.33333,Percent,33.33333,Percent,33.33333" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
   <data name="groupBox4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>278, 103</value>
+    <value>324, 119</value>
   </data>
   <data name="groupBox4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>248, 91</value>
+    <value>289, 105</value>
   </data>
   <data name="groupBox4.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -2475,7 +2475,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>groupBox4</value>
   </data>
   <data name="&gt;&gt;groupBox4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;groupBox4.Parent" xml:space="preserve">
     <value>tabPage2</value>
@@ -2490,10 +2490,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="checkBoxARVerifyUseSourceFolder.Location" type="System.Drawing.Point, System.Drawing">
-    <value>26, 54</value>
+    <value>30, 62</value>
   </data>
   <data name="checkBoxARVerifyUseSourceFolder.Size" type="System.Drawing.Size, System.Drawing">
-    <value>102, 17</value>
+    <value>112, 19</value>
   </data>
   <data name="checkBoxARVerifyUseSourceFolder.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -2505,7 +2505,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>checkBoxARVerifyUseSourceFolder</value>
   </data>
   <data name="&gt;&gt;checkBoxARVerifyUseSourceFolder.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;checkBoxARVerifyUseSourceFolder.Parent" xml:space="preserve">
     <value>groupBoxVerify</value>
@@ -2520,10 +2520,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="chkWriteARLogOnVerify.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 37</value>
+    <value>7, 43</value>
   </data>
   <data name="chkWriteARLogOnVerify.Size" type="System.Drawing.Size, System.Drawing">
-    <value>130, 17</value>
+    <value>147, 19</value>
   </data>
   <data name="chkWriteARLogOnVerify.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -2535,7 +2535,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>chkWriteARLogOnVerify</value>
   </data>
   <data name="&gt;&gt;chkWriteARLogOnVerify.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;chkWriteARLogOnVerify.Parent" xml:space="preserve">
     <value>groupBoxVerify</value>
@@ -2544,10 +2544,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>1</value>
   </data>
   <data name="groupBoxVerify.Location" type="System.Drawing.Point, System.Drawing">
-    <value>8, 6</value>
+    <value>9, 7</value>
   </data>
   <data name="groupBoxVerify.Size" type="System.Drawing.Size, System.Drawing">
-    <value>248, 91</value>
+    <value>289, 105</value>
   </data>
   <data name="groupBoxVerify.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -2559,7 +2559,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>groupBoxVerify</value>
   </data>
   <data name="&gt;&gt;groupBoxVerify.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;groupBoxVerify.Parent" xml:space="preserve">
     <value>tabPage2</value>
@@ -2568,13 +2568,13 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>3</value>
   </data>
   <data name="tabPage2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 24</value>
   </data>
   <data name="tabPage2.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tabPage2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>535, 291</value>
+    <value>625, 338</value>
   </data>
   <data name="tabPage2.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -2586,7 +2586,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>tabPage2</value>
   </data>
   <data name="&gt;&gt;tabPage2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;tabPage2.Parent" xml:space="preserve">
     <value>tabControl1</value>
@@ -2595,10 +2595,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>2</value>
   </data>
   <data name="comboFormatLossyEncoder.Location" type="System.Drawing.Point, System.Drawing">
-    <value>155, 74</value>
+    <value>181, 85</value>
   </data>
   <data name="comboFormatLossyEncoder.Size" type="System.Drawing.Size, System.Drawing">
-    <value>184, 21</value>
+    <value>214, 23</value>
   </data>
   <data name="comboFormatLossyEncoder.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -2607,7 +2607,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>comboFormatLossyEncoder</value>
   </data>
   <data name="&gt;&gt;comboFormatLossyEncoder.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;comboFormatLossyEncoder.Parent" xml:space="preserve">
     <value>groupBoxFormat</value>
@@ -2622,10 +2622,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="labelFormatLossyEncoder.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 77</value>
+    <value>7, 89</value>
   </data>
   <data name="labelFormatLossyEncoder.Size" type="System.Drawing.Size, System.Drawing">
-    <value>76, 13</value>
+    <value>89, 15</value>
   </data>
   <data name="labelFormatLossyEncoder.TabIndex" type="System.Int32, mscorlib">
     <value>19</value>
@@ -2637,7 +2637,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>labelFormatLossyEncoder</value>
   </data>
   <data name="&gt;&gt;labelFormatLossyEncoder.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;labelFormatLossyEncoder.Parent" xml:space="preserve">
     <value>groupBoxFormat</value>
@@ -2652,10 +2652,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="checkBoxFormatAllowLossy.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 169</value>
+    <value>7, 195</value>
   </data>
   <data name="checkBoxFormatAllowLossy.Size" type="System.Drawing.Size, System.Drawing">
-    <value>142, 17</value>
+    <value>163, 19</value>
   </data>
   <data name="checkBoxFormatAllowLossy.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -2667,7 +2667,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>checkBoxFormatAllowLossy</value>
   </data>
   <data name="&gt;&gt;checkBoxFormatAllowLossy.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;checkBoxFormatAllowLossy.Parent" xml:space="preserve">
     <value>groupBoxFormat</value>
@@ -2676,10 +2676,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>2</value>
   </data>
   <data name="comboFormatLosslessEncoder.Location" type="System.Drawing.Point, System.Drawing">
-    <value>155, 47</value>
+    <value>181, 54</value>
   </data>
   <data name="comboFormatLosslessEncoder.Size" type="System.Drawing.Size, System.Drawing">
-    <value>184, 21</value>
+    <value>214, 23</value>
   </data>
   <data name="comboFormatLosslessEncoder.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -2688,7 +2688,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>comboFormatLosslessEncoder</value>
   </data>
   <data name="&gt;&gt;comboFormatLosslessEncoder.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;comboFormatLosslessEncoder.Parent" xml:space="preserve">
     <value>groupBoxFormat</value>
@@ -2703,10 +2703,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="labelFormatLosslessEncoder.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 50</value>
+    <value>7, 58</value>
   </data>
   <data name="labelFormatLosslessEncoder.Size" type="System.Drawing.Size, System.Drawing">
-    <value>88, 13</value>
+    <value>104, 15</value>
   </data>
   <data name="labelFormatLosslessEncoder.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -2718,7 +2718,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>labelFormatLosslessEncoder</value>
   </data>
   <data name="&gt;&gt;labelFormatLosslessEncoder.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;labelFormatLosslessEncoder.Parent" xml:space="preserve">
     <value>groupBoxFormat</value>
@@ -2733,10 +2733,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="checkBoxFormatEmbedCUESheet.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 192</value>
+    <value>7, 222</value>
   </data>
   <data name="checkBoxFormatEmbedCUESheet.Size" type="System.Drawing.Size, System.Drawing">
-    <value>181, 17</value>
+    <value>208, 19</value>
   </data>
   <data name="checkBoxFormatEmbedCUESheet.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -2748,7 +2748,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>checkBoxFormatEmbedCUESheet</value>
   </data>
   <data name="&gt;&gt;checkBoxFormatEmbedCUESheet.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;checkBoxFormatEmbedCUESheet.Parent" xml:space="preserve">
     <value>groupBoxFormat</value>
@@ -2757,10 +2757,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>5</value>
   </data>
   <data name="comboFormatDecoder.Location" type="System.Drawing.Point, System.Drawing">
-    <value>155, 20</value>
+    <value>181, 23</value>
   </data>
   <data name="comboFormatDecoder.Size" type="System.Drawing.Size, System.Drawing">
-    <value>184, 21</value>
+    <value>214, 23</value>
   </data>
   <data name="comboFormatDecoder.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -2769,7 +2769,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>comboFormatDecoder</value>
   </data>
   <data name="&gt;&gt;comboFormatDecoder.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;comboFormatDecoder.Parent" xml:space="preserve">
     <value>groupBoxFormat</value>
@@ -2784,10 +2784,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="checkBoxFormatAllowLossless.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 144</value>
+    <value>7, 166</value>
   </data>
   <data name="checkBoxFormatAllowLossless.Size" type="System.Drawing.Size, System.Drawing">
-    <value>154, 17</value>
+    <value>178, 19</value>
   </data>
   <data name="checkBoxFormatAllowLossless.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -2799,7 +2799,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>checkBoxFormatAllowLossless</value>
   </data>
   <data name="&gt;&gt;checkBoxFormatAllowLossless.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;checkBoxFormatAllowLossless.Parent" xml:space="preserve">
     <value>groupBoxFormat</value>
@@ -2814,10 +2814,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="labelFormatDefaultDecoder.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 23</value>
+    <value>7, 27</value>
   </data>
   <data name="labelFormatDefaultDecoder.Size" type="System.Drawing.Size, System.Drawing">
-    <value>47, 13</value>
+    <value>55, 15</value>
   </data>
   <data name="labelFormatDefaultDecoder.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
@@ -2829,7 +2829,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>labelFormatDefaultDecoder</value>
   </data>
   <data name="&gt;&gt;labelFormatDefaultDecoder.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;labelFormatDefaultDecoder.Parent" xml:space="preserve">
     <value>groupBoxFormat</value>
@@ -2844,10 +2844,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="labelFormatTagger.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 104</value>
+    <value>7, 120</value>
   </data>
   <data name="labelFormatTagger.Size" type="System.Drawing.Size, System.Drawing">
-    <value>41, 13</value>
+    <value>46, 15</value>
   </data>
   <data name="labelFormatTagger.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -2859,7 +2859,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>labelFormatTagger</value>
   </data>
   <data name="&gt;&gt;labelFormatTagger.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;labelFormatTagger.Parent" xml:space="preserve">
     <value>groupBoxFormat</value>
@@ -2868,10 +2868,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>9</value>
   </data>
   <data name="comboBoxFormatTagger.Location" type="System.Drawing.Point, System.Drawing">
-    <value>155, 101</value>
+    <value>181, 117</value>
   </data>
   <data name="comboBoxFormatTagger.Size" type="System.Drawing.Size, System.Drawing">
-    <value>184, 21</value>
+    <value>214, 23</value>
   </data>
   <data name="comboBoxFormatTagger.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -2880,7 +2880,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>comboBoxFormatTagger</value>
   </data>
   <data name="&gt;&gt;comboBoxFormatTagger.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;comboBoxFormatTagger.Parent" xml:space="preserve">
     <value>groupBoxFormat</value>
@@ -2889,10 +2889,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>10</value>
   </data>
   <data name="groupBoxFormat.Location" type="System.Drawing.Point, System.Drawing">
-    <value>136, 6</value>
+    <value>159, 7</value>
   </data>
   <data name="groupBoxFormat.Size" type="System.Drawing.Size, System.Drawing">
-    <value>390, 269</value>
+    <value>455, 310</value>
   </data>
   <data name="groupBoxFormat.TabIndex" type="System.Int32, mscorlib">
     <value>17</value>
@@ -2904,7 +2904,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>groupBoxFormat</value>
   </data>
   <data name="&gt;&gt;groupBoxFormat.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;groupBoxFormat.Parent" xml:space="preserve">
     <value>tabPage3</value>
@@ -2916,10 +2916,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>120</value>
   </data>
   <data name="listViewFormats.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 6</value>
+    <value>7, 7</value>
   </data>
   <data name="listViewFormats.Size" type="System.Drawing.Size, System.Drawing">
-    <value>124, 269</value>
+    <value>145, 310</value>
   </data>
   <data name="listViewFormats.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -2928,7 +2928,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>listViewFormats</value>
   </data>
   <data name="&gt;&gt;listViewFormats.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ListView, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ListView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;listViewFormats.Parent" xml:space="preserve">
     <value>tabPage3</value>
@@ -2937,13 +2937,13 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>1</value>
   </data>
   <data name="tabPage3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 24</value>
   </data>
   <data name="tabPage3.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tabPage3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>535, 291</value>
+    <value>625, 338</value>
   </data>
   <data name="tabPage3.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -2955,7 +2955,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>tabPage3</value>
   </data>
   <data name="&gt;&gt;tabPage3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;tabPage3.Parent" xml:space="preserve">
     <value>tabControl1</value>
@@ -2979,10 +2979,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>True</value>
   </data>
   <data name="labelEncoderName.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 110</value>
+    <value>7, 127</value>
   </data>
   <data name="labelEncoderName.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 13</value>
+    <value>40, 15</value>
   </data>
   <data name="labelEncoderName.TabIndex" type="System.Int32, mscorlib">
     <value>29</value>
@@ -2994,7 +2994,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>labelEncoderName</value>
   </data>
   <data name="&gt;&gt;labelEncoderName.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;labelEncoderName.Parent" xml:space="preserve">
     <value>groupBoxExternalEncoder</value>
@@ -3009,10 +3009,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="labelEncoderModes.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 81</value>
+    <value>7, 93</value>
   </data>
   <data name="labelEncoderModes.Size" type="System.Drawing.Size, System.Drawing">
-    <value>38, 13</value>
+    <value>45, 15</value>
   </data>
   <data name="labelEncoderModes.TabIndex" type="System.Int32, mscorlib">
     <value>28</value>
@@ -3024,7 +3024,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>labelEncoderModes</value>
   </data>
   <data name="&gt;&gt;labelEncoderModes.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;labelEncoderModes.Parent" xml:space="preserve">
     <value>groupBoxExternalEncoder</value>
@@ -3039,10 +3039,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="labelEncoderPath.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 23</value>
+    <value>7, 27</value>
   </data>
   <data name="labelEncoderPath.Size" type="System.Drawing.Size, System.Drawing">
-    <value>29, 13</value>
+    <value>33, 15</value>
   </data>
   <data name="labelEncoderPath.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -3054,7 +3054,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>labelEncoderPath</value>
   </data>
   <data name="&gt;&gt;labelEncoderPath.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;labelEncoderPath.Parent" xml:space="preserve">
     <value>groupBoxExternalEncoder</value>
@@ -3069,10 +3069,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="labelEncoderParameters.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 52</value>
+    <value>7, 60</value>
   </data>
   <data name="labelEncoderParameters.Size" type="System.Drawing.Size, System.Drawing">
-    <value>62, 13</value>
+    <value>71, 15</value>
   </data>
   <data name="labelEncoderParameters.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
@@ -3084,7 +3084,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>labelEncoderParameters</value>
   </data>
   <data name="&gt;&gt;labelEncoderParameters.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;labelEncoderParameters.Parent" xml:space="preserve">
     <value>groupBoxExternalEncoder</value>
@@ -3096,7 +3096,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>0, 0</value>
   </data>
   <data name="groupBoxExternalEncoder.Size" type="System.Drawing.Size, System.Drawing">
-    <value>394, 235</value>
+    <value>463, 271</value>
   </data>
   <data name="groupBoxExternalEncoder.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -3111,7 +3111,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>groupBoxExternalEncoder</value>
   </data>
   <data name="&gt;&gt;groupBoxExternalEncoder.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;groupBoxExternalEncoder.Parent" xml:space="preserve">
     <value>panel1</value>
@@ -3126,7 +3126,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>0, 0</value>
   </data>
   <data name="propertyGridEncoderSettings.Size" type="System.Drawing.Size, System.Drawing">
-    <value>394, 236</value>
+    <value>463, 276</value>
   </data>
   <data name="propertyGridEncoderSettings.TabIndex" type="System.Int32, mscorlib">
     <value>31</value>
@@ -3135,7 +3135,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>propertyGridEncoderSettings</value>
   </data>
   <data name="&gt;&gt;propertyGridEncoderSettings.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PropertyGrid, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.PropertyGrid, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;propertyGridEncoderSettings.Parent" xml:space="preserve">
     <value>panel1</value>
@@ -3147,10 +3147,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>Fill</value>
   </data>
   <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>132, 46</value>
+    <value>153, 53</value>
   </data>
   <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>394, 236</value>
+    <value>463, 276</value>
   </data>
   <data name="panel1.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -3159,7 +3159,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>panel1</value>
   </data>
   <data name="&gt;&gt;panel1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;panel1.Parent" xml:space="preserve">
     <value>tableLayoutPanel4</value>
@@ -3188,10 +3188,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="buttonEncoderDelete.Location" type="System.Drawing.Point, System.Drawing">
-    <value>42, 7</value>
+    <value>49, 8</value>
   </data>
   <data name="buttonEncoderDelete.Size" type="System.Drawing.Size, System.Drawing">
-    <value>25, 23</value>
+    <value>29, 27</value>
   </data>
   <data name="buttonEncoderDelete.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -3200,7 +3200,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>buttonEncoderDelete</value>
   </data>
   <data name="&gt;&gt;buttonEncoderDelete.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;buttonEncoderDelete.Parent" xml:space="preserve">
     <value>panel3</value>
@@ -3221,13 +3221,13 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="labelEncoderExtension.Location" type="System.Drawing.Point, System.Drawing">
-    <value>208, 10</value>
+    <value>246, 12</value>
   </data>
   <data name="labelEncoderExtension.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>100, 16</value>
+    <value>117, 18</value>
   </data>
   <data name="labelEncoderExtension.Size" type="System.Drawing.Size, System.Drawing">
-    <value>100, 16</value>
+    <value>117, 18</value>
   </data>
   <data name="labelEncoderExtension.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
@@ -3242,7 +3242,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>labelEncoderExtension</value>
   </data>
   <data name="&gt;&gt;labelEncoderExtension.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;labelEncoderExtension.Parent" xml:space="preserve">
     <value>panel3</value>
@@ -3268,10 +3268,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
 </value>
   </data>
   <data name="buttonEncoderAdd.Location" type="System.Drawing.Point, System.Drawing">
-    <value>9, 7</value>
+    <value>10, 8</value>
   </data>
   <data name="buttonEncoderAdd.Size" type="System.Drawing.Size, System.Drawing">
-    <value>25, 23</value>
+    <value>29, 27</value>
   </data>
   <data name="buttonEncoderAdd.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -3280,7 +3280,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>buttonEncoderAdd</value>
   </data>
   <data name="&gt;&gt;buttonEncoderAdd.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;buttonEncoderAdd.Parent" xml:space="preserve">
     <value>panel3</value>
@@ -3292,10 +3292,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>Top, Right</value>
   </data>
   <data name="comboBoxEncoderExtension.Location" type="System.Drawing.Point, System.Drawing">
-    <value>316, 7</value>
+    <value>372, 8</value>
   </data>
   <data name="comboBoxEncoderExtension.Size" type="System.Drawing.Size, System.Drawing">
-    <value>67, 21</value>
+    <value>77, 23</value>
   </data>
   <data name="comboBoxEncoderExtension.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -3307,7 +3307,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>comboBoxEncoderExtension</value>
   </data>
   <data name="&gt;&gt;comboBoxEncoderExtension.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;comboBoxEncoderExtension.Parent" xml:space="preserve">
     <value>panel3</value>
@@ -3319,10 +3319,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>Fill</value>
   </data>
   <data name="panel3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>132, 3</value>
+    <value>153, 3</value>
   </data>
   <data name="panel3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>394, 37</value>
+    <value>463, 44</value>
   </data>
   <data name="panel3.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -3331,7 +3331,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>panel3</value>
   </data>
   <data name="&gt;&gt;panel3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;panel3.Parent" xml:space="preserve">
     <value>tableLayoutPanel4</value>
@@ -3342,11 +3342,14 @@ You can set up foobar2000 to show those values, and see if your music was ripped
   <data name="listBoxEncoders.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
+  <data name="listBoxEncoders.ItemHeight" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
   <data name="listBoxEncoders.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 3</value>
   </data>
   <data name="listBoxEncoders.Size" type="System.Drawing.Size, System.Drawing">
-    <value>123, 279</value>
+    <value>144, 326</value>
   </data>
   <data name="listBoxEncoders.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -3355,7 +3358,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>listBoxEncoders</value>
   </data>
   <data name="&gt;&gt;listBoxEncoders.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;listBoxEncoders.Parent" xml:space="preserve">
     <value>tableLayoutPanel4</value>
@@ -3373,7 +3376,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>2</value>
   </data>
   <data name="tableLayoutPanel4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>529, 285</value>
+    <value>619, 332</value>
   </data>
   <data name="tableLayoutPanel4.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -3382,7 +3385,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>tableLayoutPanel4</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel4.Parent" xml:space="preserve">
     <value>tabPageEncoders</value>
@@ -3394,13 +3397,13 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="panel1" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="panel3" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="listBoxEncoders" Row="0" RowSpan="2" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,24.38563,Percent,75.61436" /&gt;&lt;Rows Styles="Percent,15.08772,Percent,84.91228" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
   <data name="tabPageEncoders.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 24</value>
   </data>
   <data name="tabPageEncoders.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tabPageEncoders.Size" type="System.Drawing.Size, System.Drawing">
-    <value>535, 291</value>
+    <value>625, 338</value>
   </data>
   <data name="tabPageEncoders.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -3412,7 +3415,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>tabPageEncoders</value>
   </data>
   <data name="&gt;&gt;tabPageEncoders.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;tabPageEncoders.Parent" xml:space="preserve">
     <value>tabControl1</value>
@@ -3430,10 +3433,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 81</value>
+    <value>7, 93</value>
   </data>
   <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 13</value>
+    <value>40, 15</value>
   </data>
   <data name="label4.TabIndex" type="System.Int32, mscorlib">
     <value>31</value>
@@ -3445,7 +3448,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>label4</value>
   </data>
   <data name="&gt;&gt;label4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;label4.Parent" xml:space="preserve">
     <value>groupBoxExternalDecoder</value>
@@ -3457,10 +3460,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>Top, Left, Right</value>
   </data>
   <data name="textBoxDecoderPath.Location" type="System.Drawing.Point, System.Drawing">
-    <value>96, 20</value>
+    <value>112, 23</value>
   </data>
   <data name="textBoxDecoderPath.Size" type="System.Drawing.Size, System.Drawing">
-    <value>287, 21</value>
+    <value>337, 22</value>
   </data>
   <data name="textBoxDecoderPath.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -3469,7 +3472,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>textBoxDecoderPath</value>
   </data>
   <data name="&gt;&gt;textBoxDecoderPath.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;textBoxDecoderPath.Parent" xml:space="preserve">
     <value>groupBoxExternalDecoder</value>
@@ -3484,10 +3487,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="labelDecoderPath.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 23</value>
+    <value>7, 27</value>
   </data>
   <data name="labelDecoderPath.Size" type="System.Drawing.Size, System.Drawing">
-    <value>29, 13</value>
+    <value>33, 15</value>
   </data>
   <data name="labelDecoderPath.TabIndex" type="System.Int32, mscorlib">
     <value>20</value>
@@ -3499,7 +3502,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>labelDecoderPath</value>
   </data>
   <data name="&gt;&gt;labelDecoderPath.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;labelDecoderPath.Parent" xml:space="preserve">
     <value>groupBoxExternalDecoder</value>
@@ -3514,10 +3517,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="labelDecoderParameters.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 52</value>
+    <value>7, 60</value>
   </data>
   <data name="labelDecoderParameters.Size" type="System.Drawing.Size, System.Drawing">
-    <value>62, 13</value>
+    <value>71, 15</value>
   </data>
   <data name="labelDecoderParameters.TabIndex" type="System.Int32, mscorlib">
     <value>22</value>
@@ -3529,7 +3532,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>labelDecoderParameters</value>
   </data>
   <data name="&gt;&gt;labelDecoderParameters.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;labelDecoderParameters.Parent" xml:space="preserve">
     <value>groupBoxExternalDecoder</value>
@@ -3541,10 +3544,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>Top, Left, Right</value>
   </data>
   <data name="textBoxDecoderParameters.Location" type="System.Drawing.Point, System.Drawing">
-    <value>96, 49</value>
+    <value>112, 57</value>
   </data>
   <data name="textBoxDecoderParameters.Size" type="System.Drawing.Size, System.Drawing">
-    <value>287, 21</value>
+    <value>337, 22</value>
   </data>
   <data name="textBoxDecoderParameters.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -3553,7 +3556,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>textBoxDecoderParameters</value>
   </data>
   <data name="&gt;&gt;textBoxDecoderParameters.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;textBoxDecoderParameters.Parent" xml:space="preserve">
     <value>groupBoxExternalDecoder</value>
@@ -3565,10 +3568,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>Fill</value>
   </data>
   <data name="groupBoxExternalDecoder.Location" type="System.Drawing.Point, System.Drawing">
-    <value>132, 44</value>
+    <value>153, 51</value>
   </data>
   <data name="groupBoxExternalDecoder.Size" type="System.Drawing.Size, System.Drawing">
-    <value>394, 238</value>
+    <value>463, 278</value>
   </data>
   <data name="groupBoxExternalDecoder.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -3580,7 +3583,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>groupBoxExternalDecoder</value>
   </data>
   <data name="&gt;&gt;groupBoxExternalDecoder.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;groupBoxExternalDecoder.Parent" xml:space="preserve">
     <value>tableLayoutPanel5</value>
@@ -3609,10 +3612,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="buttonDecoderDelete.Location" type="System.Drawing.Point, System.Drawing">
-    <value>42, 7</value>
+    <value>49, 8</value>
   </data>
   <data name="buttonDecoderDelete.Size" type="System.Drawing.Size, System.Drawing">
-    <value>25, 23</value>
+    <value>29, 27</value>
   </data>
   <data name="buttonDecoderDelete.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -3621,7 +3624,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>buttonDecoderDelete</value>
   </data>
   <data name="&gt;&gt;buttonDecoderDelete.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;buttonDecoderDelete.Parent" xml:space="preserve">
     <value>panel2</value>
@@ -3650,10 +3653,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="buttonDecoderAdd.Location" type="System.Drawing.Point, System.Drawing">
-    <value>9, 7</value>
+    <value>10, 8</value>
   </data>
   <data name="buttonDecoderAdd.Size" type="System.Drawing.Size, System.Drawing">
-    <value>25, 23</value>
+    <value>29, 27</value>
   </data>
   <data name="buttonDecoderAdd.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -3662,7 +3665,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>buttonDecoderAdd</value>
   </data>
   <data name="&gt;&gt;buttonDecoderAdd.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;buttonDecoderAdd.Parent" xml:space="preserve">
     <value>panel2</value>
@@ -3674,10 +3677,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>Top, Right</value>
   </data>
   <data name="comboBoxDecoderExtension.Location" type="System.Drawing.Point, System.Drawing">
-    <value>316, 7</value>
+    <value>372, 8</value>
   </data>
   <data name="comboBoxDecoderExtension.Size" type="System.Drawing.Size, System.Drawing">
-    <value>67, 21</value>
+    <value>77, 23</value>
   </data>
   <data name="comboBoxDecoderExtension.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -3689,7 +3692,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>comboBoxDecoderExtension</value>
   </data>
   <data name="&gt;&gt;comboBoxDecoderExtension.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;comboBoxDecoderExtension.Parent" xml:space="preserve">
     <value>panel2</value>
@@ -3710,13 +3713,13 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="labelDecoderExtension.Location" type="System.Drawing.Point, System.Drawing">
-    <value>208, 10</value>
+    <value>246, 12</value>
   </data>
   <data name="labelDecoderExtension.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>100, 16</value>
+    <value>117, 18</value>
   </data>
   <data name="labelDecoderExtension.Size" type="System.Drawing.Size, System.Drawing">
-    <value>100, 16</value>
+    <value>117, 18</value>
   </data>
   <data name="labelDecoderExtension.TabIndex" type="System.Int32, mscorlib">
     <value>19</value>
@@ -3731,7 +3734,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>labelDecoderExtension</value>
   </data>
   <data name="&gt;&gt;labelDecoderExtension.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;labelDecoderExtension.Parent" xml:space="preserve">
     <value>panel2</value>
@@ -3743,10 +3746,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>Fill</value>
   </data>
   <data name="panel2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>132, 3</value>
+    <value>153, 3</value>
   </data>
   <data name="panel2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>394, 35</value>
+    <value>463, 42</value>
   </data>
   <data name="panel2.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -3755,7 +3758,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>panel2</value>
   </data>
   <data name="&gt;&gt;panel2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;panel2.Parent" xml:space="preserve">
     <value>tableLayoutPanel5</value>
@@ -3766,11 +3769,14 @@ You can set up foobar2000 to show those values, and see if your music was ripped
   <data name="listBoxDecoders.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
+  <data name="listBoxDecoders.ItemHeight" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
   <data name="listBoxDecoders.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 3</value>
   </data>
   <data name="listBoxDecoders.Size" type="System.Drawing.Size, System.Drawing">
-    <value>123, 279</value>
+    <value>144, 326</value>
   </data>
   <data name="listBoxDecoders.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -3779,7 +3785,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>listBoxDecoders</value>
   </data>
   <data name="&gt;&gt;listBoxDecoders.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;listBoxDecoders.Parent" xml:space="preserve">
     <value>tableLayoutPanel5</value>
@@ -3797,7 +3803,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>2</value>
   </data>
   <data name="tableLayoutPanel5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>529, 285</value>
+    <value>619, 332</value>
   </data>
   <data name="tableLayoutPanel5.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -3806,7 +3812,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>tableLayoutPanel5</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel5.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel5.Parent" xml:space="preserve">
     <value>tabPage11</value>
@@ -3818,13 +3824,13 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="groupBoxExternalDecoder" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="panel2" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="listBoxDecoders" Row="0" RowSpan="2" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,24.38563,Percent,75.61436" /&gt;&lt;Rows Styles="Percent,14.73684,Percent,85.26316" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
   <data name="tabPage11.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 24</value>
   </data>
   <data name="tabPage11.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tabPage11.Size" type="System.Drawing.Size, System.Drawing">
-    <value>535, 291</value>
+    <value>625, 338</value>
   </data>
   <data name="tabPage11.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -3836,7 +3842,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>tabPage11</value>
   </data>
   <data name="&gt;&gt;tabPage11.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;tabPage11.Parent" xml:space="preserve">
     <value>tabControl1</value>
@@ -3848,10 +3854,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>True</value>
   </data>
   <data name="grpHDCD.Location" type="System.Drawing.Point, System.Drawing">
-    <value>19, 42</value>
+    <value>22, 48</value>
   </data>
   <data name="grpHDCD.Size" type="System.Drawing.Size, System.Drawing">
-    <value>203, 165</value>
+    <value>237, 190</value>
   </data>
   <data name="grpHDCD.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -3863,7 +3869,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>grpHDCD</value>
   </data>
   <data name="&gt;&gt;grpHDCD.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;grpHDCD.Parent" xml:space="preserve">
     <value>tabPage4</value>
@@ -3878,10 +3884,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>NoControl</value>
   </data>
   <data name="chkHDCDDetect.Location" type="System.Drawing.Point, System.Drawing">
-    <value>19, 19</value>
+    <value>22, 22</value>
   </data>
   <data name="chkHDCDDetect.Size" type="System.Drawing.Size, System.Drawing">
-    <value>135, 17</value>
+    <value>158, 19</value>
   </data>
   <data name="chkHDCDDetect.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -3893,7 +3899,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>chkHDCDDetect</value>
   </data>
   <data name="&gt;&gt;chkHDCDDetect.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;chkHDCDDetect.Parent" xml:space="preserve">
     <value>tabPage4</value>
@@ -3902,13 +3908,13 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>1</value>
   </data>
   <data name="tabPage4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 24</value>
   </data>
   <data name="tabPage4.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tabPage4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>535, 291</value>
+    <value>625, 338</value>
   </data>
   <data name="tabPage4.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -3920,7 +3926,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>tabPage4</value>
   </data>
   <data name="&gt;&gt;tabPage4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;tabPage4.Parent" xml:space="preserve">
     <value>tabControl1</value>
@@ -3929,10 +3935,10 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>6</value>
   </data>
   <data name="propertyGrid1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>8, 6</value>
+    <value>9, 7</value>
   </data>
   <data name="propertyGrid1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>518, 279</value>
+    <value>604, 322</value>
   </data>
   <data name="propertyGrid1.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -3941,7 +3947,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>propertyGrid1</value>
   </data>
   <data name="&gt;&gt;propertyGrid1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PropertyGrid, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.PropertyGrid, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;propertyGrid1.Parent" xml:space="preserve">
     <value>tabPage7</value>
@@ -3950,13 +3956,13 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>0</value>
   </data>
   <data name="tabPage7.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 24</value>
   </data>
   <data name="tabPage7.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tabPage7.Size" type="System.Drawing.Size, System.Drawing">
-    <value>535, 291</value>
+    <value>625, 338</value>
   </data>
   <data name="tabPage7.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
@@ -3968,7 +3974,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>tabPage7</value>
   </data>
   <data name="&gt;&gt;tabPage7.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;tabPage7.Parent" xml:space="preserve">
     <value>tabControl1</value>
@@ -3983,7 +3989,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>0, 0, 0, 0</value>
   </data>
   <data name="tabControl1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>543, 317</value>
+    <value>633, 366</value>
   </data>
   <data name="tabControl1.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -3992,7 +3998,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>tabControl1</value>
   </data>
   <data name="&gt;&gt;tabControl1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;tabControl1.Parent" xml:space="preserve">
     <value>$this</value>
@@ -4022,7 +4028,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>labelFormatDecoder</value>
   </data>
   <data name="&gt;&gt;labelFormatDecoder.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="labelFormatEncoder.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -4046,7 +4052,7 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>labelFormatEncoder</value>
   </data>
   <data name="&gt;&gt;labelFormatEncoder.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="columnHeader2.Width" type="System.Int32, mscorlib">
     <value>120</value>
@@ -4073,22 +4079,22 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>checkBox1</value>
   </data>
   <data name="&gt;&gt;checkBox1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
-  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>51</value>
   </metadata>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>6, 13</value>
+    <value>7, 15</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>542, 355</value>
+    <value>632, 410</value>
   </data>
   <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Tahoma, 8.25pt</value>
+    <value>Sarasa UI SC, 9pt</value>
   </data>
   <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
     <value>CenterParent</value>
@@ -4100,42 +4106,42 @@ You can set up foobar2000 to show those values, and see if your music was ripped
     <value>toolTip1</value>
   </data>
   <data name="&gt;&gt;toolTip1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolTip, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ToolTip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;encodersBindingSource.Name" xml:space="preserve">
     <value>encodersBindingSource</value>
   </data>
   <data name="&gt;&gt;encodersBindingSource.Type" xml:space="preserve">
-    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;cUEConfigBindingSource.Name" xml:space="preserve">
     <value>cUEConfigBindingSource</value>
   </data>
   <data name="&gt;&gt;cUEConfigBindingSource.Type" xml:space="preserve">
-    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;bindingSourceDecoders.Name" xml:space="preserve">
     <value>bindingSourceDecoders</value>
   </data>
   <data name="&gt;&gt;bindingSourceDecoders.Type" xml:space="preserve">
-    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;columnHeader1.Name" xml:space="preserve">
     <value>columnHeader1</value>
   </data>
   <data name="&gt;&gt;columnHeader1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;columnHeader2.Name" xml:space="preserve">
     <value>columnHeader2</value>
   </data>
   <data name="&gt;&gt;columnHeader2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>frmSettings</value>
   </data>
   <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
 </root>

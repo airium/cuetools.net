@@ -1291,11 +1291,11 @@ namespace JDP
             // 
             // grpHDCD
             // 
+            resources.ApplyResources(this.grpHDCD, "grpHDCD");
             this.grpHDCD.Controls.Add(this.chkHDCD24bit);
             this.grpHDCD.Controls.Add(this.chkHDCDLW16);
             this.grpHDCD.Controls.Add(this.chkHDCDStopLooking);
             this.grpHDCD.Controls.Add(this.chkHDCDDecode);
-            resources.ApplyResources(this.grpHDCD, "grpHDCD");
             this.grpHDCD.Name = "grpHDCD";
             this.grpHDCD.TabStop = false;
             // 
