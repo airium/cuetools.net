@@ -25,28 +25,28 @@
     I will not:
     -Except any responsibility for this code whatsoever.
     -Modify on demand.. you have the source code, read it, learn from it, write it.
-    -There is no guarantee of fitness, nor should you have any expectation of support. 
-    -I further renounce any and all responsibilities for this code, in every way conceivable, 
+    -There is no guarantee of fitness, nor should you have any expectation of support.
+    -I further renounce any and all responsibilities for this code, in every way conceivable,
     now, and for the rest of time.
-    
+
     Updates to 1.1
     -fixed bug in incremental value
     -added jump to position when track clicked w/ SmoothScrolling enabled
     -fixed bug in ButtonSize property set
     -fixed a couple of things in example form
-    
+
     Updates to 1.2
     -Fixed false error condition on Value init
     -Fixed ButtonSize property to update at design time
     -Removed native properties that are incompatible with control
     -Fixed control so that Minimum and Maximum values can both be negative -(but Maximum has to be more then Minimum)
-    
+
     Updates to 1.3
     Fixed scrolling ceter pointer in button 'issue'
     Fixed button resize bug
     Fixed track resize bug
     Fixed backwards scroll step bug
-    
+
     Cheers,
     John
     steppenwolfe_2000@yahoo.com
@@ -2755,7 +2755,7 @@ namespace MediaSlider
                             sf.FormatFlags = StringFormatFlags.NoWrap;
                             sf.Alignment = StringAlignment.Center;
                             sf.LineAlignment = StringAlignment.Center;
-                            using (Font ft = new Font("Arial", 8f, FontStyle.Regular))
+                            using (Font ft = new Font("Sarasa UI SC", 8f, FontStyle.Regular))
 								g.DrawString(flyOutData.text, ft, Brushes.Black, flyoutRect, sf);
                         }
                     }
@@ -2786,7 +2786,7 @@ namespace MediaSlider
                             sf.FormatFlags = StringFormatFlags.NoWrap;
                             sf.Alignment = StringAlignment.Center;
                             sf.LineAlignment = StringAlignment.Center;
-                            using (Font ft = new Font("Arial", 8f, FontStyle.Regular))
+                            using (Font ft = new Font("Sarasa UI SC", 8f, FontStyle.Regular))
 								g.DrawString(flyOutData.text, ft, Brushes.Black, flyoutRect, sf);
                         }
                     }
