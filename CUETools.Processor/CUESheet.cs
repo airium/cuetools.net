@@ -751,7 +751,7 @@ namespace CUETools.Processor
                             string line = m3u.ReadLine();
                             if (line == null) break;
                             if (line == "" || line[0] == '#') continue;
-                            //if (line.IndexOfAny(Path.GetInvalidPathChars()) >= 0) 
+                            //if (line.IndexOfAny(Path.GetInvalidPathChars()) >= 0)
                             //    continue;
                             try
                             {
@@ -1043,7 +1043,7 @@ namespace CUETools.Processor
             //        logFiles.Add(new CUEToolsSourceFile(logPath, new StreamReader(logPath, CUESheet.Encoding)));
             //    CUEToolsSourceFile selectedLogFile = ChooseFile(logFiles, null, false);
             //    _eacLog = selectedLogFile != null ? selectedLogFile.contents : null;
-            //} 
+            //}
             else if (CUEProcessorPlugins.arcp_fmt.Contains(Path.GetExtension(pathIn).ToLower().Trim('.')))
             {
                 _archive = null;
@@ -1366,13 +1366,13 @@ namespace CUETools.Processor
                         //   (line.Params[1].ToUpper() == "SHORTEN"))
                         //{
                         //    fileTimeLengthFrames -= General.TimeFromString(line.Params[2]);
-                        //}							
+                        //}
                         //else if ((command == "REM") &&
                         //   (line.Params.Count == 3) &&
                         //   (line.Params[1].ToUpper() == "LENGTHEN"))
                         //{
                         //    fileTimeLengthFrames += General.TimeFromString(line.Params[2]);
-                        //}							
+                        //}
                         else
                         {
                             if (trackInfo != null)
@@ -2380,10 +2380,9 @@ namespace CUETools.Processor
 
         public static void WriteText(string path, string text)
         {
-            bool utf8Required = CUESheet.Encoding.GetString(CUESheet.Encoding.GetBytes(text)) != text;
-            var encoding = utf8Required ? Encoding.UTF8 : CUESheet.Encoding;
+            var encoding = Encoding.UTF8;
             // Preserve original UTF-16LE encoding of EAC log files, which contain a log checksum
-            if ((text.StartsWith("Exact Audio Copy") || text.StartsWith("EAC extraction logfile")) && text.Contains("==== Log checksum"))
+            if (text.Contains("Exact Audio Copy V") && text.Contains("==== Log checksum"))
                 encoding = Encoding.Unicode;
             using (StreamWriter sw1 = new StreamWriter(path, false, encoding))
                 sw1.Write(text);
@@ -2629,7 +2628,7 @@ namespace CUETools.Processor
         {
             tags.Add(String.Format("{0}CTDBTRACKCONFIDENCE", prefix), String.Format("{0}/{1}", _CUEToolsDB.GetConfidence(iTrack), _CUEToolsDB.Total));
         }
-        
+
         public void GenerateCTDBTags(NameValueCollection tags, int iTrack)
         {
             //tags.Add("ACCURATERIPID", _accurateRipId ?? AccurateRipVerify.CalculateAccurateRipId(_toc));
@@ -4320,7 +4319,7 @@ namespace CUETools.Processor
                             string line = m3u.ReadLine();
                             if (line == null) break;
                             if (line == "" || line[0] == '#') continue;
-                            //if (line.IndexOfAny(Path.GetInvalidPathChars()) >= 0) 
+                            //if (line.IndexOfAny(Path.GetInvalidPathChars()) >= 0)
                             //    continue;
                             try
                             {
